@@ -1,5 +1,5 @@
 ![badge](https://img.shields.io/badge/Live--class-Project-yellowgreen)
-# Paytm Website Clone 👉
+# Paytm Website Clone 👉 [Livelink](https://project-paytmclone.netlify.app/)
 
 - **My learning from this project**
 
